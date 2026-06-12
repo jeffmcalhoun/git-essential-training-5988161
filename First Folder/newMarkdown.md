@@ -1,3 +1,0 @@
-First line
-
-Delete me
