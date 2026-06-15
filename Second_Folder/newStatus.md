@@ -1,1 +1,1 @@
-Here is an extra line plus some new stuff
+Here is an extra line, here's something better
